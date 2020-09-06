@@ -22,4 +22,4 @@ This is a very lightweight Excel UDF implemented through Excel DNA.
 
 Excel Add-In that uses SalesForce.com's 15 to 18-digit case-insensitive to case-sensitive conversion algorithm:
 
-![SalesForce.com algorithm] (http://astadiaemea.files.wordpress.com/2010/06/picture23.png)
+![SalesForce.com algorithm](http://astadiaemea.files.wordpress.com/2010/06/picture23.png)
